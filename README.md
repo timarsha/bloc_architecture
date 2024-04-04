@@ -1,3 +1,3 @@
 # Flutter Bloc architecture
 
-Example Bloc architecture. The app receive coins from API with pagination
+Example Bloc architecture. The app gets coins from API with pagination
